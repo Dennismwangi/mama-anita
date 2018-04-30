@@ -48,3 +48,15 @@ h2 {
 .doublecol {
   margin-right: 0px;
 }
+.btn {
+  outline-style: solid;
+  color:#E85C00 ;
+}
+.card {
+margin-left:300px;
+}
+.fastfoodcard {
+ float:left;
+  overflow: auto;
+  height: 200px;
+}
