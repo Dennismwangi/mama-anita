@@ -3,11 +3,48 @@
 }
 .jumbotron {
   background-image: url(../backgrounds/landing.jpg);
+  height: 400px;
+  color: white;
 }
 .happyhour {
-  background-color:grey;
+  color: black;
+  height: 90px;
+
 }
 .breakfast {
-background-image: url(../images/breakfast.jpg)
-text
+background-image: url(../images/breakfast.jpg);
+
+}
+body{
+  font-family: 'Lato', sans-serif;
+
+}
+.partytime{
+  background-color:#E85C00 ;
+  color: white;
+  height: 90px;
+
+}
+.partytime,.breakfast, .lunch, .dinner {
+
+color: white;
+}
+.lunch {
+background-image: url(../images/lunch.jpg);
+}
+.dinner {
+background-image: url(../images/dinner.jpg);
+}
+.menu {
+  height:180px;
+  text-align: center;
+}
+h2 {
+  padding: 50px;
+  top: 50%;
+  left: 50%;
+
+}
+.doublecol {
+  margin-right: 0px;
 }
