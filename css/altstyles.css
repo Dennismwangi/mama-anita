@@ -53,9 +53,21 @@ background-image: url(../images/breakfast.jpg);
   width:100%;
 }
 .fastfood {
-
   padding-left: 300px;
 }
-.fastfoodimages{
+.fastfoodimages, .drinkimages{
   border-style:outset;
+}
+.drinks {
+  padding-left: 300px;
+}
+.drink1, .drink2{
+flex: 50%;
+padding: 0px;
+}
+.drink1{
+  float: left;
+}
+.drink2{
+  float: left;
 }
