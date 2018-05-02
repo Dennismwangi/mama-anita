@@ -71,3 +71,27 @@ padding: 0px;
 .drink2{
   float: left;
 }
+.bottom-bigimage {
+  background-image: url(../backgrounds/foodsBg.jpg);
+  height: 400px;
+}
+.bottomcard {
+  
+  margin-right: 300px;
+  margin-left:300px;
+  margin-bottom: 200px;
+  height: 300px
+}
+.beefBurger, .chickenBurger, .chickenPizza {
+margin-top: 10px;
+margin-left: 40px;
+flex: 33.3%;
+text-align: center;
+color: #E85C00;
+font-weight: bold;
+}
+.cardtext;
+{
+height: 100px;
+padding-bottom: 100px;
+}
