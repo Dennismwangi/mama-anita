@@ -76,7 +76,8 @@ padding: 0px;
   height: 400px;
 }
 .bottomcard {
-  
+  padding-top: 0px;
+  margin-top: 50px;
   margin-right: 300px;
   margin-left:300px;
   margin-bottom: 200px;
