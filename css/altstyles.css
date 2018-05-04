@@ -1,4 +1,4 @@
-ra.jumbotron {
+.jumbotron {
   background-image: url(../backgrounds/landing.jpg);
   height: 400px;
   color: white;
@@ -95,4 +95,18 @@ font-weight: bold;
 {
 height: 100px;
 padding-bottom: 100px;
+}
+.happycustomers {
+  margin-top: 50px;
+  margin-right: 300px;
+  margin-left:300px;
+  margin-bottom: 200px;
+  width:700px;
+
+}
+
+
+.am, #ohc{
+  text-align:center;
+  color: blue;
 }
