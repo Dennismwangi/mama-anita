@@ -162,3 +162,31 @@ padding-bottom: 100px;
   margin: 2px;
   padding-left: 400px;
 }
+.footerbottom {
+  background-color: #FF5733;
+}
+.footer1 {
+  padding-left: 500px;
+
+  padding-top: 50px;
+
+}
+#footermenu {
+  margin-left: 0px;
+  padding-left: 0px;
+  font-size: 40;
+  color: white;
+  float: right;
+  clear: right;
+
+}
+.logo_white{
+
+}
+.statement {
+
+    font-size: 30;
+    color:white;
+
+    padding-left: 520px;
+}
